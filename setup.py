@@ -8,9 +8,9 @@ setup(
     long_description = "This is a toolkit for nuster.",
     license = "MIT Licence",
 
-    url = "https://github.com/fengmm521/pipProject",
-    author = "mage",
-    author_email = "mage@woodcol.com",
+    url = "https://github.com/nuster1128/nusterTool.git",
+    author = "Nuster",
+    author_email = "wfzhangzeyu@163.com",
 
     packages = find_packages(),
     include_package_data = True,
